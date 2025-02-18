@@ -1,0 +1,11 @@
+Criar APP Express
+
+CD projeto 
+
+express -e nomedoprojeto
+
+CD nomedoprojeto
+
+NPM install
+
+------------------------
